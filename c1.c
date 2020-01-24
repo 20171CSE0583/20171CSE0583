@@ -2,6 +2,7 @@
 #include<string.h>
 void main()
 {
+	int n
 	char str1[100],str2[100],str3[100];
 	printf("enter the string\n");
 	gets(str1);
