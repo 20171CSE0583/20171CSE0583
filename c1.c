@@ -3,8 +3,11 @@
 void main()
 {
 	int n
+    int m
 	{	
 		char str1[100],str2[100],str3[100];
+	{
+	char str1[100],str2[100],str3[100];
 	printf("enter the string\n");
 	gets(str1);
 	printf("enter tne string2\n");
@@ -16,6 +19,7 @@ void main()
 	gets(str3);
 	strncpy(str1,str3,4);
 	printf("string1 is %s\n",str1);
+}
 }
 }
 
