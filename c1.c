@@ -3,6 +3,9 @@
 void main()
 {
 	int n
+    int m
+	{	
+		char str1[100],str2[100],str3[100];
 	{
 	char str1[100],str2[100],str3[100];
 	printf("enter the string\n");
@@ -18,4 +21,6 @@ void main()
 	printf("string1 is %s\n",str1);
 }
 }
+}
+
 
