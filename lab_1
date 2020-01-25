@@ -1,16 +1,16 @@
-<html dir="rtl">
+<html>
 <head>
 <title>first</title>
 </head>
 <body>
 <pre>
 <h1 title="hello html!">this is heading</h1>
-<h2>this is heading</h2>
+<h2>this is<small>...</small> heading</h2>
 <h3>this is heading</h3>
 <h4>this is heading</h4>
-<p valign="top">document content.....</p>
-<p valign="middle">document text.....</p>
-<p valign="bottom">content text....</p>
+<p valign="top">document<b>....</b>content.....</p>
+<p valign="middle">document<i>....</i>text.....</p>
+<p valign="bottom">content<u>....</u>text....</p>
 </body>
 </html>
 
