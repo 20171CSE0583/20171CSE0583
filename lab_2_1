@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>first</title>
+</head>
+<body>
+<h1>this is heading</h1>
+<p>document <em>content</em>...</p>
+<p>document<mark> text </mark>...</p>
+<p>content<strong>text</strong>...</p>
+<p>text</p>
+<ol>
+<li>fruit</li>
+<ul>
+<li>bananas</li>
+<li>apple</li>
+<ol type="i">
+<li>red</li>
+<li>green</li></ol>
+</ul>
+</ol>
+<ol start="2">
+<li>vegetables</li>
+<ol type="I">
+<li>tomato</li>
+<li>carrot</li>
+</ol>
+</body>
+</html>
+
