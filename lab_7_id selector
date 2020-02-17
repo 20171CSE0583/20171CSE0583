@@ -1,0 +1,21 @@
+<head>
+<style>
+body{background-color:#FF0000;}
+#a{letter-spacing:7em;}
+#b{font-size:16pt;line-height:125%;}
+#c{margin-bottom:2cm;}
+#d{word-spacing:15mm;}
+#e{font-size:2pc;}
+#f{font-size:18pt;}
+#g{padding:25px;}
+</style>
+</head>
+<body>
+<p id="a">hello </p>
+<p id="b">paragraph containing major lines</p>
+<p id="c">typically measured</p>
+<p id="d">measurement has equivalent points</p>
+<p id="e">mathematics has measurement values</p>
+<p id="f">object oriented analysis</p>
+<p id="g">graphics</p>
+</body>
