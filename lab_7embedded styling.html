@@ -17,19 +17,36 @@ p.solid{border-style:solid; border-width:2px 10px 4px 20px; border-color:red gre
 p.double{border-style:double; width:300px;margin:auto;border:2px solid purple;}
 p.groove{border-style:groove;padding:25px 50px 75px 100px;}
 p.ridge{border-style:ridge;}
-p.inset{border-style:inset;}
-p.outset{border-style:outset;}
-p.none{border-style:none;}
-p.hidden{border-style:hidden;}
-p.mix{border-style:mix;}
+p.inset{border-style:inset; width:300px; padding:25px;}
+p.outset{border-style:outset;height:200px; width:500px; background-color:powderblue;}
+p.none{border-style:none;padding:25px 50px 75px 100px;}
+p.hidden{border-style:hidden; width:400px;margin:auto;border:5px solid violet;}
+p.mix{border-style:mix; height:200px; width:50%; background-color:powderblue;}
+div{
+background:rgb(76,175,80);
+padding:10px;
+}
+div.first{
+background:rgba(76,175,80,0.1);
+}
+div.second{
+background:rgba(76,175,80,0.3);
+}
+div.third{
+background:rgba(76,175,80,0.6);
+}
 </style>
 </head>
 <body>
+<div class="first">
 <p class="dotted">hello </p>
 <p class="dashed">paragraph containing major lines</p>
+</div>
+<div class="second">
 <p class="solid">typically measured</p>
 <p class="double">measurement has equivalent points</p>
 <p class="groove">mathematics has measurement values</p>
+</div>
 <p class="h">object oriented analysis</p>
 <p class="inset">graphics</p>
 <p class="outset">typically measured</p>
